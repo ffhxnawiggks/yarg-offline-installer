@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+An engaging music game featuring immersive gameplay, rich mechanics, and hours of entertainment. Experience YARG in its full glory.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,13 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | — | 10.11 (El Capitan) |
+| **Processor** | Min: Intel or AMD Dual Core Processor / Rec: Intel i3 Processor | Intel Core 2 Duo (2 Cores) |
+| **Memory** | Min: 2 GB RAM / Rec: 4 GB RAM | 2 GB RAM |
+| **Graphics** | Min: 256mb Graphics Memory/Intel HD 4000 / Rec: Nvidia GTX560 | (AMD) Radeon HD 2600 or (NVIDIA): GeForce 8800 |
+| **DirectX** | Version 9.0 | Version 9.0 |
+| **Storage** | 2 GB available space | 2 GB available space |
+| **OS *** | Windows 7 and Above | Windows 7 and Above |
 
 ---
 
